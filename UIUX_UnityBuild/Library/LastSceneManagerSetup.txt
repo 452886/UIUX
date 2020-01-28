@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Anke scene.unity
+- path: Assets/Scenes/Anke scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
