@@ -9,16 +9,14 @@
 *.user
 *.sln.docstates
 
-
-**\ProjectSettings
+*/ProjectSettings
 *.sln
 *csproj
 *.vs
-**\Library
-**\Logs
-**\Temp
-**\obj
-
+*/Library
+*/Logs
+*/Temp
+*/obj
 
 # Build results
 [Dd]ebug/
