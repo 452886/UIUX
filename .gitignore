@@ -10,13 +10,13 @@
 *.sln.docstates
 
 
-**/ProjectSettings
+*/ProjectSettings/
 *.sln
-*csproj
+*.csproj
 *.vs
-**/Library
-**/Logs
-**/Temp
+*/Library/
+*/Logs/
+*/Temp/
 **/obj
 
 
