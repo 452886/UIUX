@@ -12,7 +12,7 @@
 
 **/ProjectSettings
 *.sln
-*csproj
+*.csproj
 *.vs
 **/Library
 **/Logs
