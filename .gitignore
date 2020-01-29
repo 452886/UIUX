@@ -15,9 +15,8 @@
 *.csproj
 *.vs
 */Library/
-*/Logs/
 */Temp/
-**/obj
+*/obj
 
 
 # Build results
